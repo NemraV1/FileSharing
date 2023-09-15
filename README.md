@@ -1,4 +1,4 @@
-File Transfer Script (Local)
+File Transfer Script 
 
 This repository contains a Python script for sending files from one computer to another using the recipient's IP address. The script provides the recipient with the flexibility to accept or decline incoming files.
 
